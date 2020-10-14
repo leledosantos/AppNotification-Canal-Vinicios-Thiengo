@@ -3,4 +3,9 @@
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#FFFFFF</color>
     <color name="colorAccent">#595959</color>
+
+    <color name="colorStatusBar">#595959</color>
+    <color name="colorTopIcon">#FFFFFF</color>
+    <color name="colorTopWave">#555555</color>
+    <color name="colorTopText">#FFFFFF</color>
 </resources>
